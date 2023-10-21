@@ -1,4 +1,4 @@
-# PyViz---Homework
+# Small Visualization Project with Pythons PyViz
 Fintech course PyViz homework!
 <div align="center">
     <b>Toronto Dwellings Analysis & Dashboard By: Ebad Salehi</b>
